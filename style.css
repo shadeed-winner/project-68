@@ -1,0 +1,16 @@
+#video {
+    width: 100%;
+    height: 600px;
+}
+
+.contact_1 {
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+marquee {
+    background-color: limegreen;
+    color: white;
+    height: 40px;
+    font-size: 30px
+}
